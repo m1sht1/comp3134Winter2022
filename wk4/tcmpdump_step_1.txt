@@ -1,0 +1,51 @@
+ubuntu@ip-147.182.231.61:~$ sudo apt-get install tcpdump
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+tcpdump is already the newest version (4.9.3-4).
+tcpdump set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 60 not upgraded.
+
+===========================================================
+
+ubuntu@ip-147.182.231.61:~$ tcpdump -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -c 5 -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -A -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -D
+1.eth0 [Up, Running]
+2.lo [Up, Running, Loopback]
+3.any (Pseudo-device that captures on all interfaces) [Up, Running]
+4.bluetooth-monitor (Bluetooth Linux Monitor) [none]
+5.nflog (Linux netfilter log (NFLOG) interface) [none]
+6.nfqueue (Linux netfilter queue (NFQUEUE) interface) [none]
+ubuntu@ip-147.182.231.61:~$ tcpdump -XX -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -w 0001.pcap -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -r 0001.pcap
+tcpdump: 0001.pcap: No such file or directory
+ubuntu@ip-147.182.231.61:~$ tcpdump -n -i eth0
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -i eth0 tcp
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -i eth0 port 22
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$ tcpdump -i eth0 src 192.168.0.2
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$  tcpdump -i eth0 dst 50.116.66.139
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-147.182.231.61:~$
+

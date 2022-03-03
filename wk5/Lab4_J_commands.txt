@@ -1,0 +1,32 @@
+Login to ssh:
+	ssh root@<ip_address>(Enter password)
+Check the status to make sure that port 2222 is not allowed.
+	ufw status
+Enter ssh config file
+	vi /etc/ssh/sshd_config
+	
+	Add port 2222 in the config file
+		Press insert (might be different depending on you machine and keyboard layout)
+		Find the line '#Port 22'
+		Remove # and change the number to 2222
+		Press :x (to exit)
+Check the status to make sure that port 2222 is allowed.
+	ufw status
+Add the port to your server firewall and associate it with 'TCP'
+	ufw allow 2222/tcp
+Restart sshd service
+	service ssh restart
+Log into ssh with new port
+	ssh root@<ip_address> -p 2222
+To change the config file to default
+	(Instructions above. Don't forget to put back #.)
+Check the status to check the index of connection to remove.
+	ufw status numbered
+Remove the added firewall rule
+	ufw delete <index of 2222>
+	(Note: there are two indices to delete)
+Log into ssh with new port
+	ssh root@159.89.127.6 -p 2222
+	(Connection should time out or be refused.
+Login to ssh:
+	ssh root@<ip_address>(Enter password)

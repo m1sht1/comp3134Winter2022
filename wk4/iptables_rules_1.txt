@@ -1,0 +1,43 @@
+ iptables/ip6tables — administration tool for IPv4/IPv6 packet filtering and NAT
+
+SYNOPSIS
+       iptables [-t table] {-A|-C|-D} chain rule-specification
+
+       ip6tables [-t table] {-A|-C|-D} chain rule-specification
+
+       iptables [-t table] -I chain [rulenum] rule-specification
+
+       iptables [-t table] -R chain rulenum rule-specification
+
+       iptables [-t table] -D chain rulenum
+
+       iptables [-t table] -S [chain [rulenum]]
+
+       iptables [-t table] {-F|-L|-Z} [chain [rulenum]] [options...]
+
+       iptables [-t table] -N chain
+
+       iptables [-t table] -X [chain]
+
+       iptables [-t table] -P chain target
+
+       iptables [-t table] -E old-chain-name new-chain-name
+
+       rule-specification = [matches...] [target]
+
+       match = -m matchname [per-match-options]
+
+ ==============================================================
+
+ubuntu@ip-147.182.231.61:~$ sudo iptables -L -v
+Chain INPUT (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+
+Chain OUTPUT (policy ACCEPT 0 packets, 0 bytes)
+ pkts bytes target     prot opt in     out     source               destination
+
+===============================================================
+

@@ -1,0 +1,610 @@
+Domain:georgebrown.ca
+Registrar:Webnames.ca Inc.
+Registered On:2002-07-04
+Expires On:2021-07-04
+Updated On:2020-10-24
+Status:clientTransferProhibited
+Name Servers:ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+Registrant Contact
+Name:George Brown College (Toronto)
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154667
+Email:email@georgebrown.ca
+Administrative Contact
+Name:Andrew Riem
+Organization:George Brown College
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154667
+Email:email@georgebrown.ca
+Technical Contact
+Name:Dorin Grunberg
+Organization:George Brown College
+Street:P.O. Box 1015 Station B
+City:Toronto
+State:ON
+Postal Code:M5T2T9
+Country:CA
+Phone:+1.4164155000
+Fax:+1.4164154836
+Email:email@georgebrown.ca
+Raw Whois Data
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2020-10-24T15:06:22Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2021-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: George Brown College (Toronto)
+Registrant Organization:
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax: +1.4164154667
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Andrew Riem
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax: +1.4164154667
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax: +1.4164154836
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-01-18T16:56:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+===============================================================
+
+Domain Information
+Domain:seneca.ca
+Registrar:Internic.ca Inc.
+Registered On:2000-10-05
+Expires On:2021-05-08
+Updated On:2020-06-22
+Status:clientTransferProhibited
+clientUpdateProhibited
+Name Servers:ns1.zoneedit.com
+ns7.zoneedit.com
+Registrant Contact
+Name:SENECA EXPERTS-CONSEILS Inc.
+Street:7100, rue Jean-Talon Est [Bureau 410]
+City:Anjou
+State:ON
+Postal Code:H1M3S3
+Country:CA
+Phone:+1.5143534443
+Email:email@seneca.ca
+Administrative Contact
+Name:Lison Mecoli
+Organization:Seneca
+Street:7100, rue Jean-Talon Est [Bureau 410]
+City:Anjou
+State:ON
+Postal Code:H1M3S3
+Country:CA
+Phone:+1.5143534443
+Email:email@hotmail.com
+Technical Contact
+Name:Lison Mecoli
+Organization:Seneca
+Street:7100, rue Jean-Talon Est [Bureau 410]
+City:Anjou
+State:ON
+Postal Code:H1M3S3
+Country:CA
+Phone:+1.5143534443
+Email:email@hotmail.com
+Raw Whois Data
+Domain Name: seneca.ca
+Registry Domain ID: D4138-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2020-06-22T04:04:52Z
+Creation Date: 2000-10-05T16:04:47Z
+Registry Expiry Date: 2021-05-08T04:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R6729-CIRA
+Registrant Name: SENECA EXPERTS-CONSEILS Inc.
+Registrant Organization:
+Registrant Street: 7100,  rue Jean-Talon Est [Bureau 410]
+Registrant City: Anjou
+Registrant State/Province: ON
+Registrant Postal Code: H1M3S3
+Registrant Country: CA
+Registrant Phone: +1.5143534443
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@seneca.ca
+Registry Admin ID: C856345-CIRA
+Admin Name: Lison Mecoli
+Admin Organization: Seneca
+Admin Street: 7100,  rue Jean-Talon Est [Bureau 410]
+Admin City: Anjou
+Admin State/Province: ON
+Admin Postal Code: H1M3S3
+Admin Country: CA
+Admin Phone: +1.5143534443
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@hotmail.com
+Registry Tech ID: C856345-CIRA
+Tech Name: Lison Mecoli
+Tech Organization: Seneca
+Tech Street: 7100,  rue Jean-Talon Est [Bureau 410]
+Tech City: Anjou
+Tech State/Province: ON
+Tech Postal Code: H1M3S3
+Tech Country: CA
+Tech Phone: +1.5143534443
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@hotmail.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.zoneedit.com
+Name Server: ns7.zoneedit.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-01-22T17:43:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+===============================================================
+
+Domain Information
+Domain:centennial.ca
+Registrar:Tucows.com Co.
+Registered On:2000-10-29
+Expires On:2025-09-30
+Updated On:2016-01-15
+Status:ok
+Name Servers:ns1.meganameservers.com
+ns2.meganameservers.com
+ns3.meganameservers.com
+Registrant Contact
+Name:Centennial Flight Centre Ltd.
+Street:Centennial Flight Centre Ltd., 25 Airport Road
+City:Edmonton
+State:AB
+Postal Code:T5G0W6
+Country:CA
+Phone:+1.7804517676
+Fax:+1.7804523575
+Email:email@centennial.ca
+Administrative Contact
+Name:Bruce Ritchie
+Organization:Centennial Flight Centre Ltd.
+Street:Centennial Flight Centre Ltd., 25 Airport Road
+City:Edmonton
+State:AB
+Postal Code:t5g 0w6
+Country:CA
+Phone:+1 780 451 7676
+Fax:+1 780 452 3575
+Email:email@centennial.ca
+Technical Contact
+Name:Bruce Ritchie
+Organization:Centennial Flight Centre Ltd.
+Street:Centennial Flight Centre Ltd., 25 Airport Road
+City:Edmonton
+State:AB
+Postal Code:t5g 0w6
+Country:CA
+Phone:+1 780 451 7676
+Fax:+1 780 452 3575
+Email:email@centennial.ca
+Raw Whois Data
+Domain Name: centennial.ca
+Registry Domain ID: D11305-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: http://domainhelp.tucows.com
+Updated Date: 2016-01-15T18:20:17Z
+Creation Date: 2000-10-29T06:19:51Z
+Registry Expiry Date: 2025-09-30T04:00:00Z
+Registrar: Tucows.com Co.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: R20055-CIRA
+Registrant Name: Centennial Flight Centre Ltd.
+Registrant Organization:
+Registrant Street: Centennial Flight Centre Ltd., 25 Airport Road
+Registrant City: Edmonton
+Registrant State/Province: AB
+Registrant Postal Code: T5G0W6
+Registrant Country: CA
+Registrant Phone: +1.7804517676
+Registrant Phone Ext:
+Registrant Fax: +1.7804523575
+Registrant Fax Ext:
+Registrant Email: email@centennial.ca
+Registry Admin ID: C881083-CIRA
+Admin Name: Bruce Ritchie
+Admin Organization: Centennial Flight Centre Ltd.
+Admin Street: Centennial Flight Centre Ltd., 25 Airport Road 
+Admin City: Edmonton
+Admin State/Province: AB
+Admin Postal Code: t5g 0w6
+Admin Country: CA
+Admin Phone: +1 780 451 7676
+Admin Phone Ext:
+Admin Fax: +1 780 452 3575
+Admin Fax Ext:
+Admin Email: email@centennial.ca
+Registry Tech ID: C881084-CIRA
+Tech Name: Bruce Ritchie
+Tech Organization: Centennial Flight Centre Ltd.
+Tech Street: Centennial Flight Centre Ltd., 25 Airport Road 
+Tech City: Edmonton
+Tech State/Province: AB
+Tech Postal Code: t5g 0w6
+Tech Country: CA
+Tech Phone: +1 780 451 7676
+Tech Phone Ext:
+Tech Fax: +1 780 452 3575
+Tech Fax Ext:
+Tech Email: email@centennial.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.meganameservers.com
+Name Server: ns2.meganameservers.com
+Name Server: ns3.meganameservers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-01-22T17:44:33Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+===============================================================
+
+Domain Information
+Domain:humber.ca
+Registrar:Internic.ca Inc.
+Registered On:2001-10-31
+Expires On:2026-08-01
+Updated On:2020-03-09
+Status:clientTransferProhibited
+clientUpdateProhibited
+Name Servers:ns3.humber.ca
+ns4.humber.ca
+Registrant Contact
+Name:Humber College (Ontario)
+Street:205 Humber College blvd
+City:Toronto
+State:ON
+Postal Code:M9W5L7
+Country:CA
+Phone:+1.4166756622
+Email:email@humber.ca
+Administrative Contact
+Name:Bruce MacMillan
+Organization:Humber College ITAL
+Street:205 Humber College Blvd
+City:Toronto
+State:ON
+Postal Code:M9W5L7
+Country:CA
+Phone:+1.4166756622
+Email:email@humber.ca
+Technical Contact
+Name:Bruce MacMillan
+Organization:Humber College ITAL
+Street:205 Humber College Blvd
+City:Toronto
+State:ON
+Postal Code:M9W5L7
+Country:CA
+Phone:+1.4166756622
+Email:email@humber.ca
+Raw Whois Data
+Domain Name: humber.ca
+Registry Domain ID: D86109-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2020-03-09T20:10:15Z
+Creation Date: 2001-10-31T17:16:13Z
+Registry Expiry Date: 2026-08-01T04:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 56968284-CIRA
+Registrant Name: Humber College (Ontario)
+Registrant Organization:
+Registrant Street: 205 Humber College blvd
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M9W5L7
+Registrant Country: CA
+Registrant Phone: +1.4166756622
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@humber.ca
+Registry Admin ID: 57123470-CIRA
+Admin Name: Bruce MacMillan
+Admin Organization: Humber College ITAL
+Admin Street: 205 Humber College Blvd
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M9W5L7
+Admin Country: CA
+Admin Phone: +1.4166756622
+Admin Phone Ext: 8888
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@humber.ca
+Registry Tech ID: 57123470-CIRA
+Tech Name: Bruce MacMillan
+Tech Organization: Humber College ITAL
+Tech Street: 205 Humber College Blvd
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M9W5L7
+Tech Country: CA
+Tech Phone: +1.4166756622
+Tech Phone Ext: 8888
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@humber.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns3.humber.ca
+Name Server: ns4.humber.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-01-18T19:07:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+================================================================
+
+Domain Information
+Domain:metro.ca
+Registrar:DomainePlus.com (3612040 CANADA inc.)
+Registered On:2000-10-24
+Expires On:2021-05-15
+Updated On:2019-06-11
+Status:clientTransferProhibited
+clientUpdateProhibited
+Name Servers:lady.ns.cloudflare.com
+lou.ns.cloudflare.com
+Registrant Contact
+Name:Metro Inc.
+Street:7151, Jean-Talon
+City:Anjou
+State:QC
+Postal Code:H1M3N8
+Country:CA
+Phone:+1.5143565820
+Fax:+1.5143565828
+Email:email@metro.ca
+Administrative Contact
+Name:Isabelle Papillon
+Street:7151, Jean-Talon
+City:Anjou
+State:QC
+Postal Code:H1M3N8
+Country:CA
+Phone:+1.5143565820
+Fax:+1.5143565828
+Email:email@metro.ca
+Technical Contact
+Name:Claude Cadieux
+Street:1600, St-Martin
+City:Laval
+State:QC
+Postal Code:H7G4S7
+Country:CA
+Phone:+1.4506623321
+Fax:+1.4506623381
+Email:email@metro.ca
+Raw Whois Data
+Domain Name: metro.ca
+Registry Domain ID: D89552-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: http://www.domaineplus.com
+Updated Date: 2019-06-11T18:39:19Z
+Creation Date: 2000-10-24T20:07:01Z
+Registry Expiry Date: 2021-05-15T04:00:00Z
+Registrar: DomainePlus.com (3612040 CANADA inc.)
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: R58905-CIRA
+Registrant Name: Metro Inc.
+Registrant Organization:
+Registrant Street: 7151, Jean-Talon
+Registrant City: Anjou
+Registrant State/Province: QC
+Registrant Postal Code: H1M3N8
+Registrant Country: CA
+Registrant Phone: +1.5143565820
+Registrant Phone Ext:
+Registrant Fax: +1.5143565828
+Registrant Fax Ext:
+Registrant Email: email@metro.ca
+Registry Admin ID: 16252295-CIRA
+Admin Name: Isabelle Papillon
+Admin Organization:
+Admin Street: 7151, Jean-Talon
+Admin City: Anjou
+Admin State/Province: QC
+Admin Postal Code: H1M3N8
+Admin Country: CA
+Admin Phone: +1.5143565820
+Admin Phone Ext:
+Admin Fax: +1.5143565828
+Admin Fax Ext:
+Admin Email: email@metro.ca
+Registry Tech ID: 16252463-CIRA
+Tech Name: Claude Cadieux
+Tech Organization:
+Tech Street: 1600, St-Martin
+Tech City: Laval
+Tech State/Province: QC
+Tech Postal Code: H7G4S7
+Tech Country: CA
+Tech Phone: +1.4506623321
+Tech Phone Ext:
+Tech Fax: +1.4506623381
+Tech Fax Ext:
+Tech Email: email@metro.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: lady.ns.cloudflare.com
+Name Server: lou.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2021-01-22T17:45:29Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2021 Canadian Internet Registration Authority, (http://www.cira.ca/)

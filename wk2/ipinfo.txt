@@ -1,0 +1,37 @@
+Domain Name: loblaws.ca
+
+IP Address: 104.107.16.159
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+===============================================================
+
+Domain Name: bestbuy.com
+
+IP Address: 23.221.200.50
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
+
+================================================================
+
+Domain Name: freshco.ca
+
+IP Address: 173.254.30.247
+
+Geolocation: US (United States), UT, Utah, 84606 Provo - Google Maps
+
+================================================================
+
+Domain Name: timhortons.ca
+
+IP Address: 13.226.25.79
+
+Geolocation: US (United States), CT, Connecticut, 06850 Norwalk - Google Maps
+
+=================================================================
+
+Domain Name: starbucks.ca
+
+IP Address: 104.107.29.106
+
+Geolocation: US (United States), MA, Massachusetts, 02142 Cambridge - Google Maps
