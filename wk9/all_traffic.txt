@@ -1,0 +1,6 @@
+ubuntu@ip-172-31-19-126:~$ tcpdump --interface any -w all_traffic_20210312_1113
+tcpdump: any: You don't have permission to capture on that device
+(socket: Operation not permitted)
+ubuntu@ip-172-31-19-126:~$ tcpdump -d
+tcpdump: eth0: You don't have permission to capture on that device
+(socket: Operation not permitted)
