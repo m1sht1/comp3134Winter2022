@@ -1,0 +1,3 @@
+showing the content of var folder
+
+the contents are not visible to the others
