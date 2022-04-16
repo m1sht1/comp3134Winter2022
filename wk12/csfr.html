@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>csfr</title>
+</head>
+<body>
+  <form name="theform">
+     <input type="hidden" name="username" value="host">
+     <input type="hidden" name="password" value="pass">
+  </form>
+  <script>
+    document.theform.action = "/csfr.php";
+    document.theform.submit();
+  </script>
+</body>
+</html>
+

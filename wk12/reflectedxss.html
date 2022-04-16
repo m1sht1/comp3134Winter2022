@@ -1,0 +1,26 @@
+<html>
+<head>
+  <title>reflected xss</title>
+</head>
+<body>
+  <h1>Reflected XSS</h1>
+  <form method="get" id="theform">     
+      <label for="textfield"></label>
+      <textarea id="textfield" name="textfield" rows="4" cols="50"></textarea> 
+     <input type="submit" onclick="getInputValue();" id="submit">
+  </form>
+  <div id="displayText">
+    <script>
+      document.getElementById("theform").onsubmit = function(e) {
+         e.preventDefault();
+      }
+
+      function getInputValue() { 
+         let inputVal = document.getElementById("textfield").value;
+         document.getElementById("displayText").innerHTML = inputVal;
+      }
+    </script>
+  </div>
+</body>
+</html>
+

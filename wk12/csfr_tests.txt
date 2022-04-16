@@ -1,0 +1,2 @@
+the session values change 
+params don't match with the changes, even though they're equal
